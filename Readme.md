@@ -12,3 +12,9 @@ Pre-Setup
 
 **Setup**
 cp -r .config/* ~/.config
+```
+cat <<EOF>>.xinitrc
+picom -b
+exec i3
+EOF
+```
