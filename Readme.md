@@ -8,6 +8,7 @@ Pre-Setup
 * i3
 * feh
 * i3lock
+* falmeshot
 
 **Setup**
 cp -r .config/* ~/.config
