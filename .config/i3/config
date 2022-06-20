@@ -210,4 +210,4 @@ bindsym XF86AudioLowerVolume exec amixer sset 'Master' 5%-
 bindsym XF86AudioRaiseVolume exec amixer sset 'Master' 5%+
 
 bindsym $mod+p exec flameshot gui
-bindsym Shift+l exec i3lock -i /home/shawn/Pictures/lock.png
+bindsym Ctrl+Shift+l exec i3lock -i /home/shawn/Pictures/lock.png
